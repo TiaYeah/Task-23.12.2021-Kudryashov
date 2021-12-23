@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Projects\task23.12 var2\task23.12 var2\Main.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  TList.cpp
+  Создание кода...
+  task23.12 var2.vcxproj -> D:\Projects\task23.12 var2\Debug\task23.12 var2.exe
